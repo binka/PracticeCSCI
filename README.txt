@@ -1,4 +1,5 @@
 Lincoln Samelson
 Git Practice
 
-Parter: Ali Hakimi
+Partner: Ali Hakimi (You spelled partner wrong, don't worry, I got it)
+Partner: Taylor Wolfert
