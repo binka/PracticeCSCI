@@ -1,5 +1,7 @@
 Lincoln Samelson
 Git Practice
 
-Partner: Ali Hakimi (You spelled partner wrong, don't worry, I got it)
+Partner: Ali Hakimi
 Partner: Taylor Wolfert
+
+Ali has hacked you a second time
